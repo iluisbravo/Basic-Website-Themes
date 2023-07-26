@@ -1,0 +1,28 @@
+.logo {
+    background-color: #2ec65e !important;
+    /* background-image: linear-gradient(
+      to right,
+      #00c364,
+      #2ec65e,
+      #44c958,
+      #56cb52,
+      #66ce4c,
+      #63cd51,
+      #60cb55,
+      #5dca59,
+      #48c467,
+      #33be72,
+      #1cb87c,
+      #00b184
+    ) !important; */
+  
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 30px;
+  }
+  
+  .logoText {
+    color: white;
+    font-weight: bold;
+  }

@@ -1,0 +1,14 @@
+@import '../index.css';
+
+.sidebar svg {
+  height: 24px !important;
+}
+
+.sidebar .menuTitle {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 15px;
+  opacity: 0.6;
+}
+
+

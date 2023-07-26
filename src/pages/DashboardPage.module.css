@@ -1,0 +1,6 @@
+.indicador {
+  min-height: 25vh;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
